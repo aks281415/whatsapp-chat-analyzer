@@ -1,0 +1,5 @@
+imp files
+main is connected to onechat and twosenti
+onechat is connected to app.py
+twosenti is connected to streamapp2
+preprocessing , helper , sentimental_lstm, model , stop_hinglish

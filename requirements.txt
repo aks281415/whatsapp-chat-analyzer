@@ -1,0 +1,14 @@
+streamlit
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn
+spacy
+emoji
+textblob
+networkx
+urlextract
+wordcloud
+tensorflow
+keras
